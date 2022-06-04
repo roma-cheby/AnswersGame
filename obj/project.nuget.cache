@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WayJfRvLE/d56fhAVx9AQsAZl56x2LRC0ru1R/35e/yWxLOd9yhaw/ON+HhsdHdPKPvbsThV5KdLWtfm5blww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Роман\\Desktop\\Ulearn-game-1\\CatQuizGame\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Роман\\.nuget\\packages\\google.apis\\1.51.0\\google.apis.1.51.0.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\google.apis.auth\\1.51.0\\google.apis.auth.1.51.0.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\google.apis.core\\1.51.0\\google.apis.core.1.51.0.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\google.apis.sheets.v4\\1.51.0.2315\\google.apis.sheets.v4.1.51.0.2315.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\microsoft.office365.discovery\\1.0.22\\microsoft.office365.discovery.1.0.22.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.Office.Interop.Excel 15.0.4795.1000\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.Office365.Discovery 1.0.22\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.Office365.Discovery",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
