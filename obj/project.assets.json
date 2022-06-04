@@ -255,11 +255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Роман\\Desktop\\Ulearn-game-1\\CatQuizGame\\WindowsFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Роман\\Desktop\\ggg\\WindowsFormsApp1.csproj",
       "projectName": "WindowsFormsApp1",
-      "projectPath": "C:\\Users\\Роман\\Desktop\\Ulearn-game-1\\CatQuizGame\\WindowsFormsApp1.csproj",
+      "projectPath": "C:\\Users\\Роман\\Desktop\\ggg\\WindowsFormsApp1.csproj",
       "packagesPath": "C:\\Users\\Роман\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Роман\\Desktop\\Ulearn-game-1\\CatQuizGame\\obj\\",
+      "outputPath": "C:\\Users\\Роман\\Desktop\\ggg\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Роман\\AppData\\Roaming\\NuGet\\NuGet.Config",

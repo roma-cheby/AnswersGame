@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WayJfRvLE/d56fhAVx9AQsAZl56x2LRC0ru1R/35e/yWxLOd9yhaw/ON+HhsdHdPKPvbsThV5KdLWtfm5blww==",
+  "dgSpecHash": "oYTLUfqT+1LrAfoZ6qsTtnBp2FGDuyF910dwdp9rzJqL+kstO/73migxgwhT1PTsuM0CJ7EhbD39C6/YX3AnQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Роман\\Desktop\\Ulearn-game-1\\CatQuizGame\\WindowsFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\Роман\\Desktop\\ggg\\WindowsFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Роман\\.nuget\\packages\\google.apis\\1.51.0\\google.apis.1.51.0.nupkg.sha512",
     "C:\\Users\\Роман\\.nuget\\packages\\google.apis.auth\\1.51.0\\google.apis.auth.1.51.0.nupkg.sha512",

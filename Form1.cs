@@ -16,7 +16,9 @@ namespace WindowsFormsApp1
         public Label question = CreateLabel(new Size(530, 90), new Point(258, 264));
         public ProgressBar scientistHealthBar = CreateHealth(new Point(430, 200));
         public ProgressBar catHealthBar = CreateHealth(new Point(430, 600));
-        public int numberQuiz;
+        public int numberQuiz = 0;
+        public List<int> usedQuizes = new List<int>();
+        public Random random = new Random();
 
         public PlayGame()
         {
@@ -41,8 +43,13 @@ namespace WindowsFormsApp1
 
         public void DoQuests()
         {
-            Random rnd = new Random();
-            numberQuiz = rnd.Next(0, 14);
+            if (usedQuizes.Count == 14)
+                usedQuizes.Clear();
+
+            while(usedQuizes.Contains(numberQuiz)) 
+                numberQuiz = random.Next(0, 14);
+            usedQuizes.Add(numberQuiz);
+
             question.Text = quizes[numberQuiz, 0];
             for (var i = 0; i < 4; i++)
                 controllers[i].Text = quizes[numberQuiz, i + 1];
